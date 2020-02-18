@@ -144,8 +144,6 @@ lli heuristic(lli node,lli visited[],lli graph[][V1])
    
    if(z>=1)  
    heu+=m1+m2;
-   
-   
-   
+
    return heu;
 }
