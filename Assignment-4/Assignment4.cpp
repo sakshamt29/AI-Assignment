@@ -246,6 +246,5 @@ int main()
   {
     mini();
   }
-
-  return 0;
+return 0;
 }
