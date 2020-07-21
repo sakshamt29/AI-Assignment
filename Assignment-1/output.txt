@@ -1,0 +1,1 @@
+Prints all 92 distinct solutions for the puzzle.
