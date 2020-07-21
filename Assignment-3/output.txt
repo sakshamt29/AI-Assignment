@@ -1,0 +1,6 @@
+10 in group no.1
+30 in group no.1
+5 in group no.1
+90 in group no.3
+85 in group no.3
+32 in group no.2

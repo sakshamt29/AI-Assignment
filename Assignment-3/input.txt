@@ -1,0 +1,9 @@
+Enter value of n:6
+Enter number of groups:3
+Enter marks of each student:
+10
+30
+5
+90
+85
+32
