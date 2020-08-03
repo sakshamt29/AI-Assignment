@@ -1,3 +1,3 @@
 # Compile and Run:
-- gcc Assignment4.cpp -o game
+- g++ Assignment4.cpp -o game
 - ./game
